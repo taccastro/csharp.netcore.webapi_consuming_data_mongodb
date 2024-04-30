@@ -1,0 +1,28 @@
+﻿[
+  {
+    "nome": "João Silva",
+    "endereco": "Rua A, 123",
+    "telefone": "111-1111"
+  },
+  {
+    "nome": "Maria Oliveira",
+    "endereco": "Rua B, 456",
+    "telefone": "222-2222"
+  },
+  {
+    "nome": "Carlos Santos",
+    "endereco": "Av. C, 789",
+    "telefone": "333-3333"
+  },
+  {
+    "nome": "Ana Souza",
+    "endereco": "Rua D, 321",
+    "telefone": "444-4444"
+  },
+  {
+    "nome": "Pedro Ferreira",
+    "endereco": "Av. E, 654",
+    "telefone": "555-5555"
+  },  
+ //localhost:5197/Api/Employees
+]
